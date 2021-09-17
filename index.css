@@ -1,0 +1,19 @@
+.headings{
+    color:red;
+}
+.smallhead{
+    color:red;
+    font-style: italic;
+}
+.class1{
+    text-decoration: line-through;
+}
+.class2{
+    background-color: yellow;
+}
+.class3{
+    letter-spacing:6px;
+}
+.class4{
+    text-decoration: underline;
+}
